@@ -1,0 +1,8 @@
+[package]
+name = "lk_os"
+version = "0.1.0"
+authors = ["Lachlan Kermode <lachiekermode@gmail.com>"]
+
+[dependencies]
+bootloader = "0.3.4"
+volatile = "0.2.3"
