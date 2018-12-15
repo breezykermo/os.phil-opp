@@ -1,2 +1,2 @@
 # notes
-up to [newlines](https://os.phil-opp.com/vga-text-mode/#newlines)
+up to [tests](https://os.phil-opp.com/unit-testing/#testing-the-vga-module)
